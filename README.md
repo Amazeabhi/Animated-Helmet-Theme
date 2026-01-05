@@ -57,7 +57,3 @@ A sidebar UI allows users to modify:
 ## ⚙️ Installation
 
 To get the project running on your local machine:
-
-1. **Clone the Repo**
-   ```bash
-   git clone [https://github.com/yourusername/hel
