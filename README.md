@@ -60,4 +60,4 @@ To get the project running on your local machine:
 
 1. **Clone the Repo**
    ```bash
-   git clone [https://github.com/yourusername/helmet-design-web.git](https://github.com/yourusername/helmet-design-web.git)
+   git clone [https://github.com/yourusername/hel
