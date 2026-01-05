@@ -54,6 +54,4 @@ A sidebar UI allows users to modify:
 
 ---
 
-## ⚙️ Installation
 
-To get the project running on your local machine:
