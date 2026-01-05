@@ -6,7 +6,6 @@
 
 An immersive, high-fidelity web visualization tool for next-generation helmet engineering. This project utilizes advanced WebGL techniques to bridge the gap between industrial CAD and interactive web design.
 
----
 ## 🌐 Live Experience
 
 Experience the ultra-realistic 3D visualization in your browser:
