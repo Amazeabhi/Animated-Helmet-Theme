@@ -8,6 +8,47 @@ An immersive, high-fidelity web visualization tool for next-generation helmet en
 
 ---
 
+<a href="https://amazeabhi.github.io/Animated-Helmet-Theme/" class="launch-btn" target="_blank">
+  <span>EXPLORE AURORA DESIGN</span>
+  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+    <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
+  </svg>
+</a>
+
+<style>
+.launch-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 12px;
+  background: #000;
+  color: #fff;
+  padding: 16px 32px;
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: 'Inter', sans-serif;
+  font-weight: 700;
+  letter-spacing: 2px;
+  border: 1px solid #333;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 0 0 0 rgba(0, 255, 255, 0);
+}
+
+.launch-btn svg {
+  width: 20px;
+  transition: transform 0.3s ease;
+}
+
+.launch-btn:hover {
+  background: #fff;
+  color: #000;
+  border-color: #fff;
+  box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
+}
+
+.launch-btn:hover svg {
+  transform: translateX(5px);
+}
+</style>
 ## 🚀 Overview
 
 This webpage is a high-performance interactive showcase designed for manufacturers and designers. It allows for the real-time exploration of high-poly helmet models with cinematic visual quality directly in the browser.
