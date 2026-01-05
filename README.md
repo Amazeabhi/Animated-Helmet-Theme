@@ -52,6 +52,5 @@ A sidebar UI allows users to modify:
 * **Visor:** Clear, Smoked, or Gold-Mirror tint.
 * **Hardware:** Anodized bolts or stainless steel accents.
 
----
-
+-
 
