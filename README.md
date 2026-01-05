@@ -7,48 +7,13 @@
 An immersive, high-fidelity web visualization tool for next-generation helmet engineering. This project utilizes advanced WebGL techniques to bridge the gap between industrial CAD and interactive web design.
 
 ---
+## 🌐 Live Experience
 
-<a href="https://amazeabhi.github.io/Animated-Helmet-Theme/" class="launch-btn" target="_blank">
-  <span>EXPLORE AURORA DESIGN</span>
-  <svg viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-    <path d="M5 12H19M19 12L12 5M19 12L12 19" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
-  </svg>
-</a>
+Experience the ultra-realistic 3D visualization in your browser:
 
-<style>
-.launch-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-  background: #000;
-  color: #fff;
-  padding: 16px 32px;
-  border-radius: 4px;
-  text-decoration: none;
-  font-family: 'Inter', sans-serif;
-  font-weight: 700;
-  letter-spacing: 2px;
-  border: 1px solid #333;
-  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
-  box-shadow: 0 0 0 0 rgba(0, 255, 255, 0);
-}
+[![Launch Design Lab](https://img.shields.io/badge/LAUNCH-DESIGN_LAB-black?style=for-the-badge&logo=render&logoColor=cyan)](https://amazeabhi.github.io/Animated-Helmet-Theme/)
 
-.launch-btn svg {
-  width: 20px;
-  transition: transform 0.3s ease;
-}
-
-.launch-btn:hover {
-  background: #fff;
-  color: #000;
-  border-color: #fff;
-  box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
-}
-
-.launch-btn:hover svg {
-  transform: translateX(5px);
-}
-</style>
+> **Note:** For the best experience, a WebGL-enabled browser (Chrome or Edge) is recommended.
 ## 🚀 Overview
 
 This webpage is a high-performance interactive showcase designed for manufacturers and designers. It allows for the real-time exploration of high-poly helmet models with cinematic visual quality directly in the browser.
