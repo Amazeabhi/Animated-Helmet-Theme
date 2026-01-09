@@ -13,7 +13,7 @@ Experience the ultra-realistic 3D visualization in your browser:
 [![Launch Design Lab](https://img.shields.io/badge/LAUNCH-DESIGN_LAB-black?style=for-the-badge&logo=render&logoColor=cyan)](https://amazeabhi.github.io/Animated-Helmet-Theme/)
 
 > **Note:** For the best experience, a WebGL-enabled browser (Chrome or Edge) is recommended.
-## 🚀 Overview
+## 🚀 Overview.
 
 This webpage is a high-performance interactive showcase designed for manufacturers and designers. It allows for the real-time exploration of high-poly helmet models with cinematic visual quality directly in the browser.
 
