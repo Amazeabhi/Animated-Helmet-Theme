@@ -31,7 +31,7 @@ This webpage is a high-performance interactive showcase designed for manufacture
 * **Rendering:** React Three Fiber (R3F) & Drei
 * **Post-Processing:** Selective Bloom, SSAO, and Chromatic Aberration
 * **Assets:** GLTF/GLB (Draco Compressed)
-* **Styling:** Tailwind CSS
+* **Styling:** Tailwind CSS.
 
 ---
 
